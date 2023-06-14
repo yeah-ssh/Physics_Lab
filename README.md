@@ -18,11 +18,6 @@ Prerequisites:
 * To run this project locally, all you need to is ensure that you have chrome or firefox to view it.
 * Text editor or Integrated Development Environment (IDE) to view and edit the HTML and CSS files.
 
-Installation:
--------------------------
-Clone the repository or download the project files to your local machine.
-Navigate to the project directory on your system.
-
 Usage:
 -------------------------
 The project is deployed on vercel and here is the link to it https://labmaterial.vercel.app/
